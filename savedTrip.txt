@@ -1,0 +1,19 @@
+Summer Vacation Plan
+=========================
+Traveler: Shaurya
+Destination: Metro City
+Days: 3
+Hotel: Budget Hotel
+Budget: $1000.0
+Total Cost: $750.0
+Money Left: $250.0
+
+Activities:
+1. Restaurant Visit - $35.0 (Food)
+2. Adventure Activity - $60.0 (Adventure)
+3. Shopping - $45.0 (Fun)
+
+Itinerary:
+Day 1: Restaurant Visit at Metro City.
+Day 2: Adventure Activity at Metro City.
+Day 3: Shopping at Metro City.
